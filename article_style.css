@@ -1,0 +1,97 @@
+.Parallax1{
+    background-image: url("makanan\ ching\ chong\ ching\ chong.avif");
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+body {
+    margin: 0;
+}
+
+.paragraph1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px 130px 30px 130px ;
+    text-align: justify;
+    line-height: 30px;
+
+}
+
+.Parallax2 {
+    background-image: url("china\ 2.avif");
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.paragraph2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px 130px 30px 130px ;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.Parallax3 {
+    background-image: url("sakit\ mau\ mati.avif");
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.paragraph3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px 130px 30px 130px ;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.Parallax4 {
+    background-image: url("udang\ nyam\ nyam.avif");
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.paragraph4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px 130px 30px 130px ;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.Parallax5 {
+    background-image: url("msg\ tapi\ sebenarnya\ garam\ karena\ aku\ males\ nyari\ foto\ jadi\ foto\ garem\ aja.\ gbkal\ ada\ yang\ tau\ so\ idc.avif");
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.paragraph5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px 130px 30px 130px ;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.Parallax6 {
+    background-image: url("foto\ terakhir.avif");
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.parallax-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    color: aliceblue;
+    font-size: 50px;
+}
